@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor-GAME
+### Rock-Paper-Scissor-GAME
 <br>
 It is a Python Based Rock Paper Scissor Game for Single Player.
 <br>
